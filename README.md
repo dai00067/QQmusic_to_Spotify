@@ -9,5 +9,5 @@ For long I want to convert my music app from QQ Music to Spotify for streaming m
 - Run code in 'VisionAPI_demo.py'
 - Done! You can find the extracted playlist.txt in the output folder
 
-### The last step is to import the playlist into Spotify (or any other music app you like)
+### The last step is to import the playlist into Spotify (or any other music app you like):
 - Find a website/app to do this. For example, I used TuneMyMusic.
